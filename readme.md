@@ -1,5 +1,4 @@
 # Library Management System in JAVA
-
 - This Java project simulates a library management system, enabling the tracking of library books, members, and book issues. 
 - It demonstrates CRUD operations through a simple console application and uses in-memory data storage for simplicity.
 
